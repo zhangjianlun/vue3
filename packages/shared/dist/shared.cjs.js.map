@@ -1,0 +1,1 @@
+{"version":3,"file":"shared.cjs.js","sources":["../src/index.ts"],"sourcesContent":["// 公共方法\nexport function isObject(target) {\n    return typeof target === 'object' && target != null;\n}\n"],"names":[],"mappings":";;;;AAAA;SACgB,QAAQ,CAAC,MAAM;IAC3B,OAAO,OAAO,MAAM,KAAK,QAAQ,IAAI,MAAM,IAAI,IAAI,CAAC;AACxD;;;;"}
